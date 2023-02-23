@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "BSh.EzDoor",
 	"name": "Easy Doors",
 	"description": "Doors can now be opened with pistols",
 	"authors": ["BSh"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.12.4"
+	"frameworkVersion": "2.12.4",
+	"updateCheck": "https://github.com/bennett-sh/hm-ez-door/releases/latest/download/updates.json"
 }
